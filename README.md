@@ -21,6 +21,6 @@ It allows you to add, update, delete, and toggle completion status of todos.
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:abrar-balti/todo-withcontextapi.git
 
 ```
